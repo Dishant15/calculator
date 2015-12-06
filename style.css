@@ -1,0 +1,42 @@
+body {
+  background: #333333;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.header {
+  color: #888;
+  margin-top: 0px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#calculator {
+  margin-top: 40px;
+  padding: 20px 10px;
+  width: 400px;
+  border: 3px #7d777b solid;
+  border-radius: 5%;
+  box-shadow: 10px 5px 10px #888888;
+}
+
+#display {
+  background: #b2b292;
+  margin: 20px 40px 20px 40px;
+  padding: 20px 20px 20px 10px;
+  text-align: right;
+}
+
+button {
+  margin: 10px 5px 10px 5px;
+  width: 60px;
+  box-shadow: 3px 3px 4px #7d777b;
+}
+
+#bigone {
+  height: 80px;
+}
+
+.adjust {
+  float: left;
+  margin-left: 40px;
+  margin-right: -35px;
+}
